@@ -1,4 +1,4 @@
-# svelteKit issue REPO
+# svelteKit feature-request REPO
 
 This is a repo to reproduce an example with svelteKit, for Netlify svelteKit addapter.
 
